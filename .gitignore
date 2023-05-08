@@ -108,6 +108,7 @@ media/
 
 # diretório de arquivos estáticos
 static_root/
+statifiles
 
 # Ignore arquivo de configuração
 settings/local.py
