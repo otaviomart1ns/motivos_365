@@ -1,0 +1,139 @@
+.idea
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Translations
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# celery beat schedule file
+celerybeat-schedule
+
+# SageMath parsed files
+*.sage.py
+
+# dotenv
+*.env*
+
+# virtualenv
+.venv
+venv/
+ENV/
+
+.vscode
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+
+.DS_Store
+*.sqlite3
+media/
+*.pyc
+*.db
+*.pid
+
+# django migrations
+# **/migrations/**
+# !**/migrations
+# !**/migrations/__init__.py
+# **/customer/migrations/
+# **/asset/migrations/
+# **/account/migrations/
+
+# diretório de arquivos estáticos
+static_root/
+
+# Ignore arquivo de configuração
+settings/local.py
+
+portal_stream/__pycache__/
+customer/__pycache__/models.cpython-38.pyc
+*.pyc
+portal_stream/__pycache__/settings.cpython-38.pyc
+*.pyc
+common/__pycache__/views.cpython-38.pyc
+*.pyc
+customer/__pycache__/models.cpython-38.pyc
+customer/__pycache__/views.cpython-38.pyc
+portal_stream/__pycache__/settings.cpython-38.pyc
+settings/local.py
+
+# Ignora workspace do vscode 
+*.code-workspace
+
+
+# ElasticBeanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
