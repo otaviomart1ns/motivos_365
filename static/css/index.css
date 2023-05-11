@@ -168,7 +168,7 @@ body {
   font-family: 'Pacifico', cursive;
   line-height:1;
   text-align: center;
-  width:380px;
+  width:360px;
   left:10px;
   z-index:3;
   top:320px;
@@ -182,11 +182,7 @@ body {
   text-align: center;
 }
 
-.text:hover span {
-  display: none;
-}
-
 .text:hover:before {
-  content:"Quer namorar comigo?";
+  content:"";
   font-size:25px;
 }
